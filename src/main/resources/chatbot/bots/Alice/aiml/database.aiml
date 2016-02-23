@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--
+	Last edited:	2016.02.16
+	From: 			Stephan Möller
+	Note: 			This AIML is a test to save inforamtion
+-->
+<!-- ########################################################################## -->
+<category>
+<pattern>Mein Hobby ist Tennis</pattern>
+<template>Ich spiele auch gerne Tennis</template>
+</category>
+
+</aiml>
